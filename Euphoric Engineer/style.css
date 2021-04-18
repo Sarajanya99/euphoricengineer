@@ -1,0 +1,14 @@
+.body {
+    font-size: 14px;
+    color: #ce7600;
+    background-color: #011623;
+    letter-spacing: 1px;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 3;
+    background-color: #011623;
+}
